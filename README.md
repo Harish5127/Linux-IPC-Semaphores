@@ -111,13 +111,13 @@ return 0;}
 ## OUTPUT
 $ ./sem.o 
 
-![Screenshot 2025-05-18 133022](https://github.com/user-attachments/assets/8fb8532c-2a05-4de8-8c93-45515dd0b2fd)
+![Screenshot 2025-05-19 212519](https://github.com/user-attachments/assets/2752b647-b149-4fd9-af94-929fc3424ef0)
 
 
 $ ipcs
 
 
-![Screenshot 2025-05-18 133030](https://github.com/user-attachments/assets/d8da0711-43a0-4b8e-a354-e4cc4de54757)
+![Screenshot 2025-05-19 212545](https://github.com/user-attachments/assets/2e88c846-77a8-4700-be42-d4009d1d0aff)
 
 
 
